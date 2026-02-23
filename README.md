@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AshnaJ4991/AshnaJ4991/main/image.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ashna Jain</h1>
 <h3 align="center">Aspiring Data Science | B.Tech CSE Student</h3>
 
