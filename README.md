@@ -1,88 +1,66 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AshnaJ4991/AshnaJ4991/main/image.png" width="100%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ashna Jain</h1>
-<h3 align="center">Aspiring Data Science | B.Tech CSE Student</h3>
+<h3 align="center">Aspiring Data Science Student | B.Tech CSE Student</h3>
 
 <p align="center">
 📊 Turning Data into Insights | 🤖 Curious about Intelligent Systems
 </p>
+
 ---
 
 ## 🚀 About Me
 
-🔭 I’m currently working on:
-- **Music Recommendation System** (NLP + Cosine Similarity)
-- **Coffee Shop Sales Analytics Dashboard** (EDA + KPI Analysis)
+🔭 **I’m currently working on**  
+Building practical projects in **Data Analytics, Machine Learning, Python, SQL, and Java**, with a focus on solving real-world problems.
 
-🌱 I’m currently learning and exploring:
-- Machine Learning (Supervised Models)
-- Artificial Intelligence fundamentals
-- Deep Learning basics
-- Natural Language Processing (TF-IDF, similarity models)
+👯 **I’m looking to collaborate on**  
+**Data Science, Machine Learning, AI, and Web Development projects** where I can learn, contribute, and build meaningful solutions.
 
-👯 I’m open to collaborating on **Data Science, ML & AI projects**.
+🤝 **I’m looking to grow in**  
+Improving my skills in **DSA, Advanced SQL, Agentic AI, Deep Learning, and scalable real-world applications**.
 
-💬 Ask me about **Python, EDA, ML basics, SQL, and Analytics dashboards**.
+🌱 **I’m currently learning**  
+**Advanced SQL, Machine Learning, NLP, Power BI, and Data Engineering concepts** while strengthening my problem-solving skills.
 
-⚡ Fun fact: I enjoy finding patterns in messy datasets and understanding how intelligent systems work.
+💬 **Ask me about**  
+**Python, SQL, Power BI, Machine Learning, NLP, Java, DSA, and Data Analytics.**
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+⚡ **Fun fact**  
+I enjoy **finding patterns in data and turning ideas into practical projects** that make everyday problems easier to solve. 🚀
 
 ---
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+## 🌐 Socials:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashna-jain-b86872280) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainashna47@gmail.com)
 
-### 🛠 Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+# 💻 Tech Stack:
 
----
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshnaJ4991&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=AshnaJ4991&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AshnaJ4991&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshnaJ4991&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshnaJ4991&theme=tokyonight" />
-</p>
+### ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshnaJ4991&layout=compact&theme=tokyonight" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 📫 Connect With Me
-
-📧 Email: jainashna47@gmail.com  
-💼 LinkedIn: https://url-shortener.me/DA28  
-
----
-
-<p align="center">
-✨ Building strong foundations in Data Science & Intelligent Systems ✨
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
